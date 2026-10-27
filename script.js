@@ -38,5 +38,5 @@ timeline.to('.star', {
   } });
 
   function nextPage() {
-  window.location.href = "https://ariefky.github.io/letter/";
+  window.location.href = "https://riiippriiipp.github.io/letter/";
 }
